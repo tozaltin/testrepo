@@ -1,7 +1,7 @@
 #!/bin/ruby
 # p003rubystrings.rb  
 ##Tolga
-
+##Harun
 
 =begin  
   Ruby Strings  
